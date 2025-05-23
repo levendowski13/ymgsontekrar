@@ -25,7 +25,7 @@ const BelgeSayfasi = () => {
 
   return (
     <div className="belge-container">
-      <h2 className="belge-title">Yeni Belge Oluştur</h2>
+      <h2 className="belge-title">Yeni Belge Oluşturun</h2>
       <form onSubmit={handleSubmit} className="belge-form">
         <input
           type="text"
